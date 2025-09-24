@@ -30,14 +30,10 @@ Clone the repository:
 git clone [https://github.com/RR-someOne/Fraud-Detection-ML.git](https://github.com/RR-someOne/Fraud-Detection-ML.git)
 cd Fraud-Detection-ML
 
-
-
 Create and activate a virtual environment:
 
 python3 -m venv venv
 source venv/bin/activate
-
-
 
 Install the required libraries:
 
@@ -50,9 +46,7 @@ The main analysis is conducted within the Jupyter notebooks located in the noteb
 ## Repository Structure
 <img width="457" height="343" alt="Screenshot 2025-09-24 at 9 33 47 AM" src="https://github.com/user-attachments/assets/7caa7698-c82d-4c2d-9994-9d1d51a613ec" />
 
-
-
 Note: The requirements.txt file should contain all necessary libraries like pandas, numpy, scikit-learn, imblearn, etc.
 
 ## Usage
-The main analysis is conducted within the Jupyter notebooks located in the notebooks/ directory. To explore the models and results interactively, run:
+The main analysis is conducted within the Jupyter notebooks located in the notebooks/ directory. To explore the models and results interactively.
